@@ -1,0 +1,391 @@
+C:\Users\AD\Desktop\DoAn.net\QuanLySucKhoe\QuanLySucKhoe\bin\Debug\QuanLySucKhoe.exe.config
+C:\Users\AD\Desktop\DoAn.net\QuanLySucKhoe\QuanLySucKhoe\bin\Debug\QuanLySucKhoe.exe
+C:\Users\AD\Desktop\DoAn.net\QuanLySucKhoe\QuanLySucKhoe\bin\Debug\QuanLySucKhoe.pdb
+C:\Users\AD\Desktop\DoAn.net\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.csproj.AssemblyReference.cache
+C:\Users\AD\Desktop\DoAn.net\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Properties.Resources.resources
+C:\Users\AD\Desktop\DoAn.net\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.csproj.GenerateResource.cache
+C:\Users\AD\Desktop\DoAn.net\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.csproj.CoreCompileInputs.cache
+C:\Users\AD\Desktop\DoAn.net\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.exe
+C:\Users\AD\Desktop\DoAn.net\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.pdb
+C:\Users\AD\Desktop\DoAn.net\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.AdminForm.resources
+C:\Users\AD\Desktop\DoAn.net\QuanLySucKhoe\QuanLySucKhoe\bin\Debug\EntityFramework.dll
+C:\Users\AD\Desktop\DoAn.net\QuanLySucKhoe\QuanLySucKhoe\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\AD\Desktop\DoAn.net\QuanLySucKhoe\QuanLySucKhoe\bin\Debug\LiveCharts.dll
+C:\Users\AD\Desktop\DoAn.net\QuanLySucKhoe\QuanLySucKhoe\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\AD\Desktop\DoAn.net\QuanLySucKhoe\QuanLySucKhoe\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\AD\Desktop\DoAn.net\QuanLySucKhoe\QuanLySucKhoe\bin\Debug\MetroFramework.Design.dll
+C:\Users\AD\Desktop\DoAn.net\QuanLySucKhoe\QuanLySucKhoe\bin\Debug\MetroFramework.dll
+C:\Users\AD\Desktop\DoAn.net\QuanLySucKhoe\QuanLySucKhoe\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\AD\Desktop\DoAn.net\QuanLySucKhoe\QuanLySucKhoe\bin\Debug\EntityFramework.xml
+C:\Users\AD\Desktop\DoAn.net\QuanLySucKhoe\QuanLySucKhoe\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\AD\Desktop\DoAn.net\QuanLySucKhoe\QuanLySucKhoe\bin\Debug\LiveCharts.pdb
+C:\Users\AD\Desktop\DoAn.net\QuanLySucKhoe\QuanLySucKhoe\bin\Debug\LiveCharts.xml
+C:\Users\AD\Desktop\DoAn.net\QuanLySucKhoe\QuanLySucKhoe\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\AD\Desktop\DoAn.net\QuanLySucKhoe\QuanLySucKhoe\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\AD\Desktop\DoAn.net\QuanLySucKhoe\QuanLySucKhoe\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\AD\Desktop\DoAn.net\QuanLySucKhoe\QuanLySucKhoe\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\AD\Desktop\DoAn.net\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.OperatorForm.resources
+C:\Users\AD\Desktop\DoAn.net\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Views.Admin.AddEditUserForm.resources
+C:\Users\AD\Desktop\DoAn.net\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Views.Admin.AdvancedReportsControl.resources
+C:\Users\AD\Desktop\DoAn.net\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Views.Admin.BasicReportsControl.resources
+C:\Users\AD\Desktop\DoAn.net\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Views.Admin.EmergencyDoctorControl.resources
+C:\Users\AD\Desktop\DoAn.net\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Views.Admin.PavilionsControl.resources
+C:\Users\AD\Desktop\DoAn.net\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Views.Admin.ServicesControl.resources
+C:\Users\AD\Desktop\DoAn.net\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Views.Admin.TimetablesControl.resources
+C:\Users\AD\Desktop\DoAn.net\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Views.Operator.AddEditPatientForm.resources
+C:\Users\AD\Desktop\DoAn.net\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Views.Operator.AddQuickReservation.resources
+C:\Users\AD\Desktop\DoAn.net\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Views.Operator.AddReservationForm.resources
+C:\Users\AD\Desktop\DoAn.net\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Views.Operator.PatientsControl.resources
+C:\Users\AD\Desktop\DoAn.net\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Views.Operator.ReservationsControl.resources
+C:\Users\AD\Desktop\DoAn.net\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Views.Operator.TimetablesControl.resources
+C:\Users\AD\Desktop\DoAn.net\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Views.UsersControl.resources
+C:\Users\AD\Desktop\DoAn.net\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Views.Staff.FolderForm.resources
+C:\Users\AD\Desktop\DoAn.net\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Views.Staff.ReservationControl.resources
+C:\Users\AD\Desktop\DoAn.net\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Views.Staff.ReservationDiagnose.resources
+C:\Users\AD\Desktop\DoAn.net\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Views.Staff.ReservationShow.resources
+C:\Users\AD\Desktop\DoAn.net\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Views.Staff.TimetableControl.resources
+C:\Users\AD\Desktop\DoAn.net\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.csproj.CopyComplete
+C:\Users\AD\Desktop\DoAn.net\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.frmSplashScreen.resources
+C:\Users\AD\Desktop\DoAn.net\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.LoginForm.resources
+C:\Users\AD\Desktop\DoAn.net\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.StaffForm.resources
+C:\Users\AD\Desktop\DoAn.net\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Migrations.InitialMigration.resources
+C:\Users\AD\Desktop\DoAn.net\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Migrations.SeedRolesAndUsers.resources
+C:\Users\AD\Desktop\DoAn.net\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Migrations.TimeTableNullableTimes.resources
+C:\Users\AD\Desktop\DoAn.net\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Migrations.PatientAllergiesNotRequired.resources
+C:\Users\AD\Desktop\DoAn.net\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Migrations.RemovedRecipeAndUpdatedReservation.resources
+C:\Users\AD\Desktop\DoAn.net\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Migrations.ReservationFileSizeAndNameColumns.resources
+C:\Users\AD\Desktop\DoAn.net\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Migrations.ReservationRemovedFileSize.resources
+C:\Users\AD\Desktop\DoAn.net\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Migrations.DataSeeder.resources
+C:\Users\admin\Documents\Năm 3\DoAn.Net\QuanLySucKhoe\QuanLySucKhoe\QuanLySucKhoe\bin\Debug\QuanLySucKhoe.exe.config
+C:\Users\admin\Documents\Năm 3\DoAn.Net\QuanLySucKhoe\QuanLySucKhoe\QuanLySucKhoe\bin\Debug\QuanLySucKhoe.exe
+C:\Users\admin\Documents\Năm 3\DoAn.Net\QuanLySucKhoe\QuanLySucKhoe\QuanLySucKhoe\bin\Debug\QuanLySucKhoe.pdb
+C:\Users\admin\Documents\Năm 3\DoAn.Net\QuanLySucKhoe\QuanLySucKhoe\QuanLySucKhoe\bin\Debug\EntityFramework.dll
+C:\Users\admin\Documents\Năm 3\DoAn.Net\QuanLySucKhoe\QuanLySucKhoe\QuanLySucKhoe\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\admin\Documents\Năm 3\DoAn.Net\QuanLySucKhoe\QuanLySucKhoe\QuanLySucKhoe\bin\Debug\LiveCharts.dll
+C:\Users\admin\Documents\Năm 3\DoAn.Net\QuanLySucKhoe\QuanLySucKhoe\QuanLySucKhoe\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\admin\Documents\Năm 3\DoAn.Net\QuanLySucKhoe\QuanLySucKhoe\QuanLySucKhoe\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\admin\Documents\Năm 3\DoAn.Net\QuanLySucKhoe\QuanLySucKhoe\QuanLySucKhoe\bin\Debug\MetroFramework.Design.dll
+C:\Users\admin\Documents\Năm 3\DoAn.Net\QuanLySucKhoe\QuanLySucKhoe\QuanLySucKhoe\bin\Debug\MetroFramework.dll
+C:\Users\admin\Documents\Năm 3\DoAn.Net\QuanLySucKhoe\QuanLySucKhoe\QuanLySucKhoe\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\admin\Documents\Năm 3\DoAn.Net\QuanLySucKhoe\QuanLySucKhoe\QuanLySucKhoe\bin\Debug\EntityFramework.xml
+C:\Users\admin\Documents\Năm 3\DoAn.Net\QuanLySucKhoe\QuanLySucKhoe\QuanLySucKhoe\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\admin\Documents\Năm 3\DoAn.Net\QuanLySucKhoe\QuanLySucKhoe\QuanLySucKhoe\bin\Debug\LiveCharts.pdb
+C:\Users\admin\Documents\Năm 3\DoAn.Net\QuanLySucKhoe\QuanLySucKhoe\QuanLySucKhoe\bin\Debug\LiveCharts.xml
+C:\Users\admin\Documents\Năm 3\DoAn.Net\QuanLySucKhoe\QuanLySucKhoe\QuanLySucKhoe\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\admin\Documents\Năm 3\DoAn.Net\QuanLySucKhoe\QuanLySucKhoe\QuanLySucKhoe\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\admin\Documents\Năm 3\DoAn.Net\QuanLySucKhoe\QuanLySucKhoe\QuanLySucKhoe\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\admin\Documents\Năm 3\DoAn.Net\QuanLySucKhoe\QuanLySucKhoe\QuanLySucKhoe\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\admin\Documents\Năm 3\DoAn.Net\QuanLySucKhoe\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\Năm 3\DoAn.Net\QuanLySucKhoe\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\Documents\Năm 3\DoAn.Net\QuanLySucKhoe\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.AdminForm.resources
+C:\Users\admin\Documents\Năm 3\DoAn.Net\QuanLySucKhoe\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.frmSplashScreen.resources
+C:\Users\admin\Documents\Năm 3\DoAn.Net\QuanLySucKhoe\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.LoginForm.resources
+C:\Users\admin\Documents\Năm 3\DoAn.Net\QuanLySucKhoe\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Migrations.InitialMigration.resources
+C:\Users\admin\Documents\Năm 3\DoAn.Net\QuanLySucKhoe\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Migrations.SeedRolesAndUsers.resources
+C:\Users\admin\Documents\Năm 3\DoAn.Net\QuanLySucKhoe\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Migrations.TimeTableNullableTimes.resources
+C:\Users\admin\Documents\Năm 3\DoAn.Net\QuanLySucKhoe\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Migrations.PatientAllergiesNotRequired.resources
+C:\Users\admin\Documents\Năm 3\DoAn.Net\QuanLySucKhoe\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Migrations.RemovedRecipeAndUpdatedReservation.resources
+C:\Users\admin\Documents\Năm 3\DoAn.Net\QuanLySucKhoe\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Migrations.ReservationFileSizeAndNameColumns.resources
+C:\Users\admin\Documents\Năm 3\DoAn.Net\QuanLySucKhoe\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Migrations.ReservationRemovedFileSize.resources
+C:\Users\admin\Documents\Năm 3\DoAn.Net\QuanLySucKhoe\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Migrations.DataSeeder.resources
+C:\Users\admin\Documents\Năm 3\DoAn.Net\QuanLySucKhoe\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.OperatorForm.resources
+C:\Users\admin\Documents\Năm 3\DoAn.Net\QuanLySucKhoe\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Properties.Resources.resources
+C:\Users\admin\Documents\Năm 3\DoAn.Net\QuanLySucKhoe\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.StaffForm.resources
+C:\Users\admin\Documents\Năm 3\DoAn.Net\QuanLySucKhoe\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Views.Admin.AddEditUserForm.resources
+C:\Users\admin\Documents\Năm 3\DoAn.Net\QuanLySucKhoe\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Views.Admin.AdvancedReportsControl.resources
+C:\Users\admin\Documents\Năm 3\DoAn.Net\QuanLySucKhoe\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Views.Admin.BasicReportsControl.resources
+C:\Users\admin\Documents\Năm 3\DoAn.Net\QuanLySucKhoe\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Views.Admin.EmergencyDoctorControl.resources
+C:\Users\admin\Documents\Năm 3\DoAn.Net\QuanLySucKhoe\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Views.Admin.PavilionsControl.resources
+C:\Users\admin\Documents\Năm 3\DoAn.Net\QuanLySucKhoe\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Views.Admin.ServicesControl.resources
+C:\Users\admin\Documents\Năm 3\DoAn.Net\QuanLySucKhoe\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Views.Admin.TimetablesControl.resources
+C:\Users\admin\Documents\Năm 3\DoAn.Net\QuanLySucKhoe\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Views.Operator.AddEditPatientForm.resources
+C:\Users\admin\Documents\Năm 3\DoAn.Net\QuanLySucKhoe\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Views.Operator.AddQuickReservation.resources
+C:\Users\admin\Documents\Năm 3\DoAn.Net\QuanLySucKhoe\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Views.Operator.AddReservationForm.resources
+C:\Users\admin\Documents\Năm 3\DoAn.Net\QuanLySucKhoe\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Views.Operator.PatientsControl.resources
+C:\Users\admin\Documents\Năm 3\DoAn.Net\QuanLySucKhoe\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Views.Operator.ReservationsControl.resources
+C:\Users\admin\Documents\Năm 3\DoAn.Net\QuanLySucKhoe\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Views.Operator.TimetablesControl.resources
+C:\Users\admin\Documents\Năm 3\DoAn.Net\QuanLySucKhoe\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Views.UsersControl.resources
+C:\Users\admin\Documents\Năm 3\DoAn.Net\QuanLySucKhoe\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Views.Staff.FolderForm.resources
+C:\Users\admin\Documents\Năm 3\DoAn.Net\QuanLySucKhoe\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Views.Staff.ReservationControl.resources
+C:\Users\admin\Documents\Năm 3\DoAn.Net\QuanLySucKhoe\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Views.Staff.ReservationDiagnose.resources
+C:\Users\admin\Documents\Năm 3\DoAn.Net\QuanLySucKhoe\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Views.Staff.ReservationShow.resources
+C:\Users\admin\Documents\Năm 3\DoAn.Net\QuanLySucKhoe\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Views.Staff.TimetableControl.resources
+C:\Users\admin\Documents\Năm 3\DoAn.Net\QuanLySucKhoe\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.csproj.GenerateResource.cache
+C:\Users\admin\Documents\Năm 3\DoAn.Net\QuanLySucKhoe\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\Năm 3\DoAn.Net\QuanLySucKhoe\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.csproj.CopyComplete
+C:\Users\admin\Documents\Năm 3\DoAn.Net\QuanLySucKhoe\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.exe
+C:\Users\admin\Documents\Năm 3\DoAn.Net\QuanLySucKhoe\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.pdb
+C:\Users\AD\OneDrive\Máy tính\QuanLySucKhoe\QuanLySucKhoe\bin\Debug\QuanLySucKhoe.exe.config
+C:\Users\AD\OneDrive\Máy tính\QuanLySucKhoe\QuanLySucKhoe\bin\Debug\QuanLySucKhoe.exe
+C:\Users\AD\OneDrive\Máy tính\QuanLySucKhoe\QuanLySucKhoe\bin\Debug\QuanLySucKhoe.pdb
+C:\Users\AD\OneDrive\Máy tính\QuanLySucKhoe\QuanLySucKhoe\bin\Debug\EntityFramework.dll
+C:\Users\AD\OneDrive\Máy tính\QuanLySucKhoe\QuanLySucKhoe\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\AD\OneDrive\Máy tính\QuanLySucKhoe\QuanLySucKhoe\bin\Debug\LiveCharts.dll
+C:\Users\AD\OneDrive\Máy tính\QuanLySucKhoe\QuanLySucKhoe\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\AD\OneDrive\Máy tính\QuanLySucKhoe\QuanLySucKhoe\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\AD\OneDrive\Máy tính\QuanLySucKhoe\QuanLySucKhoe\bin\Debug\MetroFramework.Design.dll
+C:\Users\AD\OneDrive\Máy tính\QuanLySucKhoe\QuanLySucKhoe\bin\Debug\MetroFramework.dll
+C:\Users\AD\OneDrive\Máy tính\QuanLySucKhoe\QuanLySucKhoe\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\AD\OneDrive\Máy tính\QuanLySucKhoe\QuanLySucKhoe\bin\Debug\EntityFramework.xml
+C:\Users\AD\OneDrive\Máy tính\QuanLySucKhoe\QuanLySucKhoe\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\AD\OneDrive\Máy tính\QuanLySucKhoe\QuanLySucKhoe\bin\Debug\LiveCharts.pdb
+C:\Users\AD\OneDrive\Máy tính\QuanLySucKhoe\QuanLySucKhoe\bin\Debug\LiveCharts.xml
+C:\Users\AD\OneDrive\Máy tính\QuanLySucKhoe\QuanLySucKhoe\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\AD\OneDrive\Máy tính\QuanLySucKhoe\QuanLySucKhoe\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\AD\OneDrive\Máy tính\QuanLySucKhoe\QuanLySucKhoe\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\AD\OneDrive\Máy tính\QuanLySucKhoe\QuanLySucKhoe\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\AD\OneDrive\Máy tính\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.csproj.AssemblyReference.cache
+C:\Users\AD\OneDrive\Máy tính\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.AdminForm.resources
+C:\Users\AD\OneDrive\Máy tính\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.frmSplashScreen.resources
+C:\Users\AD\OneDrive\Máy tính\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.LoginForm.resources
+C:\Users\AD\OneDrive\Máy tính\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Migrations.InitialMigration.resources
+C:\Users\AD\OneDrive\Máy tính\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Migrations.SeedRolesAndUsers.resources
+C:\Users\AD\OneDrive\Máy tính\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Migrations.TimeTableNullableTimes.resources
+C:\Users\AD\OneDrive\Máy tính\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Migrations.PatientAllergiesNotRequired.resources
+C:\Users\AD\OneDrive\Máy tính\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Migrations.RemovedRecipeAndUpdatedReservation.resources
+C:\Users\AD\OneDrive\Máy tính\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Migrations.ReservationFileSizeAndNameColumns.resources
+C:\Users\AD\OneDrive\Máy tính\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Migrations.ReservationRemovedFileSize.resources
+C:\Users\AD\OneDrive\Máy tính\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Migrations.DataSeeder.resources
+C:\Users\AD\OneDrive\Máy tính\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.OperatorForm.resources
+C:\Users\AD\OneDrive\Máy tính\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Properties.Resources.resources
+C:\Users\AD\OneDrive\Máy tính\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.StaffForm.resources
+C:\Users\AD\OneDrive\Máy tính\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Views.Admin.AddEditUserForm.resources
+C:\Users\AD\OneDrive\Máy tính\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Views.Admin.AdvancedReportsControl.resources
+C:\Users\AD\OneDrive\Máy tính\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Views.Admin.BasicReportsControl.resources
+C:\Users\AD\OneDrive\Máy tính\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Views.Admin.EmergencyDoctorControl.resources
+C:\Users\AD\OneDrive\Máy tính\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Views.Admin.PavilionsControl.resources
+C:\Users\AD\OneDrive\Máy tính\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Views.Admin.ServicesControl.resources
+C:\Users\AD\OneDrive\Máy tính\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Views.Admin.TimetablesControl.resources
+C:\Users\AD\OneDrive\Máy tính\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Views.Operator.AddEditPatientForm.resources
+C:\Users\AD\OneDrive\Máy tính\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Views.Operator.AddQuickReservation.resources
+C:\Users\AD\OneDrive\Máy tính\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Views.Operator.AddReservationForm.resources
+C:\Users\AD\OneDrive\Máy tính\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Views.Operator.PatientsControl.resources
+C:\Users\AD\OneDrive\Máy tính\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Views.Operator.ReservationsControl.resources
+C:\Users\AD\OneDrive\Máy tính\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Views.Operator.TimetablesControl.resources
+C:\Users\AD\OneDrive\Máy tính\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Views.UsersControl.resources
+C:\Users\AD\OneDrive\Máy tính\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Views.Staff.FolderForm.resources
+C:\Users\AD\OneDrive\Máy tính\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Views.Staff.ReservationControl.resources
+C:\Users\AD\OneDrive\Máy tính\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Views.Staff.ReservationDiagnose.resources
+C:\Users\AD\OneDrive\Máy tính\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Views.Staff.ReservationShow.resources
+C:\Users\AD\OneDrive\Máy tính\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Views.Staff.TimetableControl.resources
+C:\Users\AD\OneDrive\Máy tính\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.csproj.GenerateResource.cache
+C:\Users\AD\OneDrive\Máy tính\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.csproj.CoreCompileInputs.cache
+C:\Users\AD\OneDrive\Máy tính\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.csproj.CopyComplete
+C:\Users\AD\OneDrive\Máy tính\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.exe
+C:\Users\AD\OneDrive\Máy tính\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.pdb
+C:\Users\phamd\OneDrive\Máy tính\QuanLySucKhoe\QuanLySucKhoe\bin\Debug\QuanLySucKhoe.exe.config
+C:\Users\phamd\OneDrive\Máy tính\QuanLySucKhoe\QuanLySucKhoe\bin\Debug\QuanLySucKhoe.exe
+C:\Users\phamd\OneDrive\Máy tính\QuanLySucKhoe\QuanLySucKhoe\bin\Debug\QuanLySucKhoe.pdb
+C:\Users\phamd\OneDrive\Máy tính\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.csproj.AssemblyReference.cache
+C:\Users\phamd\OneDrive\Máy tính\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.AdminForm.resources
+C:\Users\phamd\OneDrive\Máy tính\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.frmSplashScreen.resources
+C:\Users\phamd\OneDrive\Máy tính\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.LoginForm.resources
+C:\Users\phamd\OneDrive\Máy tính\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Migrations.InitialMigration.resources
+C:\Users\phamd\OneDrive\Máy tính\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Migrations.SeedRolesAndUsers.resources
+C:\Users\phamd\OneDrive\Máy tính\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Migrations.TimeTableNullableTimes.resources
+C:\Users\phamd\OneDrive\Máy tính\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Migrations.PatientAllergiesNotRequired.resources
+C:\Users\phamd\OneDrive\Máy tính\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Migrations.RemovedRecipeAndUpdatedReservation.resources
+C:\Users\phamd\OneDrive\Máy tính\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Migrations.ReservationFileSizeAndNameColumns.resources
+C:\Users\phamd\OneDrive\Máy tính\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Migrations.ReservationRemovedFileSize.resources
+C:\Users\phamd\OneDrive\Máy tính\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Migrations.DataSeeder.resources
+C:\Users\phamd\OneDrive\Máy tính\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.OperatorForm.resources
+C:\Users\phamd\OneDrive\Máy tính\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Properties.Resources.resources
+C:\Users\phamd\OneDrive\Máy tính\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.StaffForm.resources
+C:\Users\phamd\OneDrive\Máy tính\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Views.Admin.AddEditUserForm.resources
+C:\Users\phamd\OneDrive\Máy tính\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Views.Admin.AdvancedReportsControl.resources
+C:\Users\phamd\OneDrive\Máy tính\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Views.Admin.BasicReportsControl.resources
+C:\Users\phamd\OneDrive\Máy tính\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Views.Admin.EmergencyDoctorControl.resources
+C:\Users\phamd\OneDrive\Máy tính\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Views.Admin.PavilionsControl.resources
+C:\Users\phamd\OneDrive\Máy tính\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Views.Admin.ServicesControl.resources
+C:\Users\phamd\OneDrive\Máy tính\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Views.Admin.TimetablesControl.resources
+C:\Users\phamd\OneDrive\Máy tính\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Views.Operator.AddEditPatientForm.resources
+C:\Users\phamd\OneDrive\Máy tính\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Views.Operator.AddQuickReservation.resources
+C:\Users\phamd\OneDrive\Máy tính\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Views.Operator.AddReservationForm.resources
+C:\Users\phamd\OneDrive\Máy tính\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Views.Operator.PatientsControl.resources
+C:\Users\phamd\OneDrive\Máy tính\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Views.Operator.ReservationsControl.resources
+C:\Users\phamd\OneDrive\Máy tính\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Views.Operator.TimetablesControl.resources
+C:\Users\phamd\OneDrive\Máy tính\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Views.UsersControl.resources
+C:\Users\phamd\OneDrive\Máy tính\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Views.Staff.FolderForm.resources
+C:\Users\phamd\OneDrive\Máy tính\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Views.Staff.ReservationControl.resources
+C:\Users\phamd\OneDrive\Máy tính\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Views.Staff.ReservationDiagnose.resources
+C:\Users\phamd\OneDrive\Máy tính\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Views.Staff.ReservationShow.resources
+C:\Users\phamd\OneDrive\Máy tính\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Views.Staff.TimetableControl.resources
+C:\Users\phamd\OneDrive\Máy tính\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.csproj.GenerateResource.cache
+C:\Users\phamd\OneDrive\Máy tính\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.csproj.CoreCompileInputs.cache
+C:\Users\phamd\OneDrive\Máy tính\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.csproj.CopyComplete
+C:\Users\phamd\OneDrive\Máy tính\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.exe
+C:\Users\phamd\OneDrive\Máy tính\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.pdb
+C:\Users\phamd\OneDrive\Máy tính\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\bin\Debug\QuanLySucKhoe.exe.config
+C:\Users\phamd\OneDrive\Máy tính\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\bin\Debug\QuanLySucKhoe.exe
+C:\Users\phamd\OneDrive\Máy tính\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\bin\Debug\QuanLySucKhoe.pdb
+C:\Users\phamd\OneDrive\Máy tính\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\bin\Debug\EntityFramework.dll
+C:\Users\phamd\OneDrive\Máy tính\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\phamd\OneDrive\Máy tính\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\bin\Debug\LiveCharts.dll
+C:\Users\phamd\OneDrive\Máy tính\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\phamd\OneDrive\Máy tính\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\phamd\OneDrive\Máy tính\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\bin\Debug\MetroFramework.Design.dll
+C:\Users\phamd\OneDrive\Máy tính\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\bin\Debug\MetroFramework.dll
+C:\Users\phamd\OneDrive\Máy tính\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\phamd\OneDrive\Máy tính\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\bin\Debug\EntityFramework.xml
+C:\Users\phamd\OneDrive\Máy tính\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\phamd\OneDrive\Máy tính\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\bin\Debug\LiveCharts.pdb
+C:\Users\phamd\OneDrive\Máy tính\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\bin\Debug\LiveCharts.xml
+C:\Users\phamd\OneDrive\Máy tính\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\phamd\OneDrive\Máy tính\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\phamd\OneDrive\Máy tính\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\phamd\OneDrive\Máy tính\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\phamd\OneDrive\Máy tính\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.csproj.AssemblyReference.cache
+C:\Users\phamd\OneDrive\Máy tính\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.AdminForm.resources
+C:\Users\phamd\OneDrive\Máy tính\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.frmSplashScreen.resources
+C:\Users\phamd\OneDrive\Máy tính\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.LoginForm.resources
+C:\Users\phamd\OneDrive\Máy tính\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Migrations.InitialMigration.resources
+C:\Users\phamd\OneDrive\Máy tính\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Migrations.SeedRolesAndUsers.resources
+C:\Users\phamd\OneDrive\Máy tính\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Migrations.TimeTableNullableTimes.resources
+C:\Users\phamd\OneDrive\Máy tính\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Migrations.PatientAllergiesNotRequired.resources
+C:\Users\phamd\OneDrive\Máy tính\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Migrations.RemovedRecipeAndUpdatedReservation.resources
+C:\Users\phamd\OneDrive\Máy tính\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Migrations.ReservationFileSizeAndNameColumns.resources
+C:\Users\phamd\OneDrive\Máy tính\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Migrations.ReservationRemovedFileSize.resources
+C:\Users\phamd\OneDrive\Máy tính\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Migrations.DataSeeder.resources
+C:\Users\phamd\OneDrive\Máy tính\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.OperatorForm.resources
+C:\Users\phamd\OneDrive\Máy tính\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Properties.Resources.resources
+C:\Users\phamd\OneDrive\Máy tính\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.StaffForm.resources
+C:\Users\phamd\OneDrive\Máy tính\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Views.Admin.AddEditUserForm.resources
+C:\Users\phamd\OneDrive\Máy tính\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Views.Admin.AdvancedReportsControl.resources
+C:\Users\phamd\OneDrive\Máy tính\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Views.Admin.BasicReportsControl.resources
+C:\Users\phamd\OneDrive\Máy tính\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Views.Admin.EmergencyDoctorControl.resources
+C:\Users\phamd\OneDrive\Máy tính\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Views.Admin.PavilionsControl.resources
+C:\Users\phamd\OneDrive\Máy tính\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Views.Admin.ServicesControl.resources
+C:\Users\phamd\OneDrive\Máy tính\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Views.Admin.TimetablesControl.resources
+C:\Users\phamd\OneDrive\Máy tính\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Views.Operator.AddEditPatientForm.resources
+C:\Users\phamd\OneDrive\Máy tính\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Views.Operator.AddQuickReservation.resources
+C:\Users\phamd\OneDrive\Máy tính\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Views.Operator.AddReservationForm.resources
+C:\Users\phamd\OneDrive\Máy tính\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Views.Operator.PatientsControl.resources
+C:\Users\phamd\OneDrive\Máy tính\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Views.Operator.ReservationsControl.resources
+C:\Users\phamd\OneDrive\Máy tính\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Views.Operator.TimetablesControl.resources
+C:\Users\phamd\OneDrive\Máy tính\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Views.UsersControl.resources
+C:\Users\phamd\OneDrive\Máy tính\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Views.Staff.FolderForm.resources
+C:\Users\phamd\OneDrive\Máy tính\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Views.Staff.ReservationControl.resources
+C:\Users\phamd\OneDrive\Máy tính\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Views.Staff.ReservationDiagnose.resources
+C:\Users\phamd\OneDrive\Máy tính\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Views.Staff.ReservationShow.resources
+C:\Users\phamd\OneDrive\Máy tính\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Views.Staff.TimetableControl.resources
+C:\Users\phamd\OneDrive\Máy tính\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.csproj.GenerateResource.cache
+C:\Users\phamd\OneDrive\Máy tính\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.csproj.CoreCompileInputs.cache
+C:\Users\phamd\OneDrive\Máy tính\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.csproj.CopyComplete
+C:\Users\phamd\OneDrive\Máy tính\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.exe
+C:\Users\phamd\OneDrive\Máy tính\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.pdb
+C:\Users\phamd\Desktop\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\bin\Debug\QuanLySucKhoe.exe.config
+C:\Users\phamd\Desktop\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\bin\Debug\QuanLySucKhoe.exe
+C:\Users\phamd\Desktop\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\bin\Debug\QuanLySucKhoe.pdb
+C:\Users\phamd\Desktop\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\bin\Debug\EntityFramework.dll
+C:\Users\phamd\Desktop\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\phamd\Desktop\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\bin\Debug\LiveCharts.dll
+C:\Users\phamd\Desktop\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\phamd\Desktop\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\phamd\Desktop\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\bin\Debug\MetroFramework.Design.dll
+C:\Users\phamd\Desktop\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\bin\Debug\MetroFramework.dll
+C:\Users\phamd\Desktop\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\phamd\Desktop\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\bin\Debug\EntityFramework.xml
+C:\Users\phamd\Desktop\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\phamd\Desktop\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\bin\Debug\LiveCharts.pdb
+C:\Users\phamd\Desktop\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\bin\Debug\LiveCharts.xml
+C:\Users\phamd\Desktop\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\phamd\Desktop\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\phamd\Desktop\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\phamd\Desktop\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\phamd\Desktop\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.csproj.AssemblyReference.cache
+C:\Users\phamd\Desktop\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.AdminForm.resources
+C:\Users\phamd\Desktop\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.frmSplashScreen.resources
+C:\Users\phamd\Desktop\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.LoginForm.resources
+C:\Users\phamd\Desktop\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Migrations.InitialMigration.resources
+C:\Users\phamd\Desktop\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Migrations.SeedRolesAndUsers.resources
+C:\Users\phamd\Desktop\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Migrations.TimeTableNullableTimes.resources
+C:\Users\phamd\Desktop\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Migrations.PatientAllergiesNotRequired.resources
+C:\Users\phamd\Desktop\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Migrations.RemovedRecipeAndUpdatedReservation.resources
+C:\Users\phamd\Desktop\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Migrations.ReservationFileSizeAndNameColumns.resources
+C:\Users\phamd\Desktop\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Migrations.ReservationRemovedFileSize.resources
+C:\Users\phamd\Desktop\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Migrations.DataSeeder.resources
+C:\Users\phamd\Desktop\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.OperatorForm.resources
+C:\Users\phamd\Desktop\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Properties.Resources.resources
+C:\Users\phamd\Desktop\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.StaffForm.resources
+C:\Users\phamd\Desktop\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Views.Admin.AddEditUserForm.resources
+C:\Users\phamd\Desktop\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Views.Admin.AdvancedReportsControl.resources
+C:\Users\phamd\Desktop\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Views.Admin.BasicReportsControl.resources
+C:\Users\phamd\Desktop\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Views.Admin.EmergencyDoctorControl.resources
+C:\Users\phamd\Desktop\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Views.Admin.PavilionsControl.resources
+C:\Users\phamd\Desktop\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Views.Admin.ServicesControl.resources
+C:\Users\phamd\Desktop\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Views.Admin.TimetablesControl.resources
+C:\Users\phamd\Desktop\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Views.Operator.AddEditPatientForm.resources
+C:\Users\phamd\Desktop\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Views.Operator.AddQuickReservation.resources
+C:\Users\phamd\Desktop\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Views.Operator.AddReservationForm.resources
+C:\Users\phamd\Desktop\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Views.Operator.PatientsControl.resources
+C:\Users\phamd\Desktop\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Views.Operator.ReservationsControl.resources
+C:\Users\phamd\Desktop\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Views.Operator.TimetablesControl.resources
+C:\Users\phamd\Desktop\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Views.UsersControl.resources
+C:\Users\phamd\Desktop\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Views.Staff.FolderForm.resources
+C:\Users\phamd\Desktop\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Views.Staff.ReservationControl.resources
+C:\Users\phamd\Desktop\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Views.Staff.ReservationDiagnose.resources
+C:\Users\phamd\Desktop\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Views.Staff.ReservationShow.resources
+C:\Users\phamd\Desktop\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Views.Staff.TimetableControl.resources
+C:\Users\phamd\Desktop\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.csproj.GenerateResource.cache
+C:\Users\phamd\Desktop\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.csproj.CoreCompileInputs.cache
+C:\Users\phamd\Desktop\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.csproj.CopyComplete
+C:\Users\phamd\Desktop\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.exe
+C:\Users\phamd\Desktop\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.pdb
+C:\Users\phamd\OneDrive\Máy tính\DoAn.net\QuanLySucKhoe-new\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\bin\Debug\QuanLySucKhoe.exe.config
+C:\Users\phamd\OneDrive\Máy tính\DoAn.net\QuanLySucKhoe-new\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\bin\Debug\QuanLySucKhoe.exe
+C:\Users\phamd\OneDrive\Máy tính\DoAn.net\QuanLySucKhoe-new\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\bin\Debug\QuanLySucKhoe.pdb
+C:\Users\phamd\OneDrive\Máy tính\DoAn.net\QuanLySucKhoe-new\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\bin\Debug\EntityFramework.dll
+C:\Users\phamd\OneDrive\Máy tính\DoAn.net\QuanLySucKhoe-new\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\phamd\OneDrive\Máy tính\DoAn.net\QuanLySucKhoe-new\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\bin\Debug\LiveCharts.dll
+C:\Users\phamd\OneDrive\Máy tính\DoAn.net\QuanLySucKhoe-new\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\phamd\OneDrive\Máy tính\DoAn.net\QuanLySucKhoe-new\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\phamd\OneDrive\Máy tính\DoAn.net\QuanLySucKhoe-new\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\bin\Debug\MetroFramework.Design.dll
+C:\Users\phamd\OneDrive\Máy tính\DoAn.net\QuanLySucKhoe-new\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\bin\Debug\MetroFramework.dll
+C:\Users\phamd\OneDrive\Máy tính\DoAn.net\QuanLySucKhoe-new\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\phamd\OneDrive\Máy tính\DoAn.net\QuanLySucKhoe-new\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\bin\Debug\EntityFramework.xml
+C:\Users\phamd\OneDrive\Máy tính\DoAn.net\QuanLySucKhoe-new\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\phamd\OneDrive\Máy tính\DoAn.net\QuanLySucKhoe-new\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\bin\Debug\LiveCharts.pdb
+C:\Users\phamd\OneDrive\Máy tính\DoAn.net\QuanLySucKhoe-new\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\bin\Debug\LiveCharts.xml
+C:\Users\phamd\OneDrive\Máy tính\DoAn.net\QuanLySucKhoe-new\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\phamd\OneDrive\Máy tính\DoAn.net\QuanLySucKhoe-new\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\phamd\OneDrive\Máy tính\DoAn.net\QuanLySucKhoe-new\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\phamd\OneDrive\Máy tính\DoAn.net\QuanLySucKhoe-new\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\phamd\OneDrive\Máy tính\DoAn.net\QuanLySucKhoe-new\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.csproj.AssemblyReference.cache
+C:\Users\phamd\OneDrive\Máy tính\DoAn.net\QuanLySucKhoe-new\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.AdminForm.resources
+C:\Users\phamd\OneDrive\Máy tính\DoAn.net\QuanLySucKhoe-new\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.frmSplashScreen.resources
+C:\Users\phamd\OneDrive\Máy tính\DoAn.net\QuanLySucKhoe-new\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.LoginForm.resources
+C:\Users\phamd\OneDrive\Máy tính\DoAn.net\QuanLySucKhoe-new\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Migrations.InitialMigration.resources
+C:\Users\phamd\OneDrive\Máy tính\DoAn.net\QuanLySucKhoe-new\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Migrations.SeedRolesAndUsers.resources
+C:\Users\phamd\OneDrive\Máy tính\DoAn.net\QuanLySucKhoe-new\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Migrations.TimeTableNullableTimes.resources
+C:\Users\phamd\OneDrive\Máy tính\DoAn.net\QuanLySucKhoe-new\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Migrations.PatientAllergiesNotRequired.resources
+C:\Users\phamd\OneDrive\Máy tính\DoAn.net\QuanLySucKhoe-new\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Migrations.RemovedRecipeAndUpdatedReservation.resources
+C:\Users\phamd\OneDrive\Máy tính\DoAn.net\QuanLySucKhoe-new\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Migrations.ReservationFileSizeAndNameColumns.resources
+C:\Users\phamd\OneDrive\Máy tính\DoAn.net\QuanLySucKhoe-new\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Migrations.ReservationRemovedFileSize.resources
+C:\Users\phamd\OneDrive\Máy tính\DoAn.net\QuanLySucKhoe-new\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Migrations.DataSeeder.resources
+C:\Users\phamd\OneDrive\Máy tính\DoAn.net\QuanLySucKhoe-new\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.OperatorForm.resources
+C:\Users\phamd\OneDrive\Máy tính\DoAn.net\QuanLySucKhoe-new\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Properties.Resources.resources
+C:\Users\phamd\OneDrive\Máy tính\DoAn.net\QuanLySucKhoe-new\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.StaffForm.resources
+C:\Users\phamd\OneDrive\Máy tính\DoAn.net\QuanLySucKhoe-new\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Views.Admin.AddEditUserForm.resources
+C:\Users\phamd\OneDrive\Máy tính\DoAn.net\QuanLySucKhoe-new\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Views.Admin.AdvancedReportsControl.resources
+C:\Users\phamd\OneDrive\Máy tính\DoAn.net\QuanLySucKhoe-new\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Views.Admin.BasicReportsControl.resources
+C:\Users\phamd\OneDrive\Máy tính\DoAn.net\QuanLySucKhoe-new\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Views.Admin.EmergencyDoctorControl.resources
+C:\Users\phamd\OneDrive\Máy tính\DoAn.net\QuanLySucKhoe-new\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Views.Admin.PavilionsControl.resources
+C:\Users\phamd\OneDrive\Máy tính\DoAn.net\QuanLySucKhoe-new\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Views.Admin.ServicesControl.resources
+C:\Users\phamd\OneDrive\Máy tính\DoAn.net\QuanLySucKhoe-new\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Views.Admin.TimetablesControl.resources
+C:\Users\phamd\OneDrive\Máy tính\DoAn.net\QuanLySucKhoe-new\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Views.Operator.AddEditPatientForm.resources
+C:\Users\phamd\OneDrive\Máy tính\DoAn.net\QuanLySucKhoe-new\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Views.Operator.AddQuickReservation.resources
+C:\Users\phamd\OneDrive\Máy tính\DoAn.net\QuanLySucKhoe-new\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Views.Operator.AddReservationForm.resources
+C:\Users\phamd\OneDrive\Máy tính\DoAn.net\QuanLySucKhoe-new\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Views.Operator.PatientsControl.resources
+C:\Users\phamd\OneDrive\Máy tính\DoAn.net\QuanLySucKhoe-new\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Views.Operator.ReservationsControl.resources
+C:\Users\phamd\OneDrive\Máy tính\DoAn.net\QuanLySucKhoe-new\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Views.Operator.TimetablesControl.resources
+C:\Users\phamd\OneDrive\Máy tính\DoAn.net\QuanLySucKhoe-new\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Views.UsersControl.resources
+C:\Users\phamd\OneDrive\Máy tính\DoAn.net\QuanLySucKhoe-new\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Views.Staff.FolderForm.resources
+C:\Users\phamd\OneDrive\Máy tính\DoAn.net\QuanLySucKhoe-new\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Views.Staff.ReservationControl.resources
+C:\Users\phamd\OneDrive\Máy tính\DoAn.net\QuanLySucKhoe-new\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Views.Staff.ReservationDiagnose.resources
+C:\Users\phamd\OneDrive\Máy tính\DoAn.net\QuanLySucKhoe-new\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Views.Staff.ReservationShow.resources
+C:\Users\phamd\OneDrive\Máy tính\DoAn.net\QuanLySucKhoe-new\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.Views.Staff.TimetableControl.resources
+C:\Users\phamd\OneDrive\Máy tính\DoAn.net\QuanLySucKhoe-new\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.csproj.GenerateResource.cache
+C:\Users\phamd\OneDrive\Máy tính\DoAn.net\QuanLySucKhoe-new\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.csproj.CoreCompileInputs.cache
+C:\Users\phamd\OneDrive\Máy tính\DoAn.net\QuanLySucKhoe-new\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.csproj.CopyComplete
+C:\Users\phamd\OneDrive\Máy tính\DoAn.net\QuanLySucKhoe-new\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.exe
+C:\Users\phamd\OneDrive\Máy tính\DoAn.net\QuanLySucKhoe-new\QuanLySucKhoe-new\QuanLySucKhoe\QuanLySucKhoe\obj\Debug\QuanLySucKhoe.pdb

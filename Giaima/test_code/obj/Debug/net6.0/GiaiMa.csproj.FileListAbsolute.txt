@@ -1,0 +1,28 @@
+C:\Users\AD\Desktop\DoAn.net\QuanLySucKhoe\Giaima\test_code\bin\Debug\net6.0\GiaiMa.exe
+C:\Users\AD\Desktop\DoAn.net\QuanLySucKhoe\Giaima\test_code\bin\Debug\net6.0\GiaiMa.deps.json
+C:\Users\AD\Desktop\DoAn.net\QuanLySucKhoe\Giaima\test_code\bin\Debug\net6.0\GiaiMa.runtimeconfig.json
+C:\Users\AD\Desktop\DoAn.net\QuanLySucKhoe\Giaima\test_code\bin\Debug\net6.0\GiaiMa.dll
+C:\Users\AD\Desktop\DoAn.net\QuanLySucKhoe\Giaima\test_code\bin\Debug\net6.0\GiaiMa.pdb
+C:\Users\AD\Desktop\DoAn.net\QuanLySucKhoe\Giaima\test_code\obj\Debug\net6.0\GiaiMa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AD\Desktop\DoAn.net\QuanLySucKhoe\Giaima\test_code\obj\Debug\net6.0\GiaiMa.AssemblyInfoInputs.cache
+C:\Users\AD\Desktop\DoAn.net\QuanLySucKhoe\Giaima\test_code\obj\Debug\net6.0\GiaiMa.AssemblyInfo.cs
+C:\Users\AD\Desktop\DoAn.net\QuanLySucKhoe\Giaima\test_code\obj\Debug\net6.0\GiaiMa.csproj.CoreCompileInputs.cache
+C:\Users\AD\Desktop\DoAn.net\QuanLySucKhoe\Giaima\test_code\obj\Debug\net6.0\GiaiMa.dll
+C:\Users\AD\Desktop\DoAn.net\QuanLySucKhoe\Giaima\test_code\obj\Debug\net6.0\refint\GiaiMa.dll
+C:\Users\AD\Desktop\DoAn.net\QuanLySucKhoe\Giaima\test_code\obj\Debug\net6.0\GiaiMa.pdb
+C:\Users\AD\Desktop\DoAn.net\QuanLySucKhoe\Giaima\test_code\obj\Debug\net6.0\GiaiMa.genruntimeconfig.cache
+C:\Users\AD\Desktop\DoAn.net\QuanLySucKhoe\Giaima\test_code\obj\Debug\net6.0\ref\GiaiMa.dll
+C:\Users\phamd\OneDrive\Máy tính\QuanLySucKhoe-new\QuanLySucKhoe\Giaima\test_code\bin\Debug\net6.0\GiaiMa.exe
+C:\Users\phamd\OneDrive\Máy tính\QuanLySucKhoe-new\QuanLySucKhoe\Giaima\test_code\bin\Debug\net6.0\GiaiMa.deps.json
+C:\Users\phamd\OneDrive\Máy tính\QuanLySucKhoe-new\QuanLySucKhoe\Giaima\test_code\bin\Debug\net6.0\GiaiMa.runtimeconfig.json
+C:\Users\phamd\OneDrive\Máy tính\QuanLySucKhoe-new\QuanLySucKhoe\Giaima\test_code\bin\Debug\net6.0\GiaiMa.dll
+C:\Users\phamd\OneDrive\Máy tính\QuanLySucKhoe-new\QuanLySucKhoe\Giaima\test_code\bin\Debug\net6.0\GiaiMa.pdb
+C:\Users\phamd\OneDrive\Máy tính\QuanLySucKhoe-new\QuanLySucKhoe\Giaima\test_code\obj\Debug\net6.0\GiaiMa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phamd\OneDrive\Máy tính\QuanLySucKhoe-new\QuanLySucKhoe\Giaima\test_code\obj\Debug\net6.0\GiaiMa.AssemblyInfoInputs.cache
+C:\Users\phamd\OneDrive\Máy tính\QuanLySucKhoe-new\QuanLySucKhoe\Giaima\test_code\obj\Debug\net6.0\GiaiMa.AssemblyInfo.cs
+C:\Users\phamd\OneDrive\Máy tính\QuanLySucKhoe-new\QuanLySucKhoe\Giaima\test_code\obj\Debug\net6.0\GiaiMa.csproj.CoreCompileInputs.cache
+C:\Users\phamd\OneDrive\Máy tính\QuanLySucKhoe-new\QuanLySucKhoe\Giaima\test_code\obj\Debug\net6.0\GiaiMa.dll
+C:\Users\phamd\OneDrive\Máy tính\QuanLySucKhoe-new\QuanLySucKhoe\Giaima\test_code\obj\Debug\net6.0\refint\GiaiMa.dll
+C:\Users\phamd\OneDrive\Máy tính\QuanLySucKhoe-new\QuanLySucKhoe\Giaima\test_code\obj\Debug\net6.0\GiaiMa.pdb
+C:\Users\phamd\OneDrive\Máy tính\QuanLySucKhoe-new\QuanLySucKhoe\Giaima\test_code\obj\Debug\net6.0\GiaiMa.genruntimeconfig.cache
+C:\Users\phamd\OneDrive\Máy tính\QuanLySucKhoe-new\QuanLySucKhoe\Giaima\test_code\obj\Debug\net6.0\ref\GiaiMa.dll

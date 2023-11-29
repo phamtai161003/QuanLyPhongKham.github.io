@@ -1,0 +1,14 @@
+C:\Users\AD\Desktop\DoAn.net\test_code\test_code\bin\Debug\net6.0\test_code.exe
+C:\Users\AD\Desktop\DoAn.net\test_code\test_code\bin\Debug\net6.0\test_code.deps.json
+C:\Users\AD\Desktop\DoAn.net\test_code\test_code\bin\Debug\net6.0\test_code.runtimeconfig.json
+C:\Users\AD\Desktop\DoAn.net\test_code\test_code\bin\Debug\net6.0\test_code.dll
+C:\Users\AD\Desktop\DoAn.net\test_code\test_code\bin\Debug\net6.0\test_code.pdb
+C:\Users\AD\Desktop\DoAn.net\test_code\test_code\obj\Debug\net6.0\test_code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AD\Desktop\DoAn.net\test_code\test_code\obj\Debug\net6.0\test_code.AssemblyInfoInputs.cache
+C:\Users\AD\Desktop\DoAn.net\test_code\test_code\obj\Debug\net6.0\test_code.AssemblyInfo.cs
+C:\Users\AD\Desktop\DoAn.net\test_code\test_code\obj\Debug\net6.0\test_code.csproj.CoreCompileInputs.cache
+C:\Users\AD\Desktop\DoAn.net\test_code\test_code\obj\Debug\net6.0\test_code.dll
+C:\Users\AD\Desktop\DoAn.net\test_code\test_code\obj\Debug\net6.0\refint\test_code.dll
+C:\Users\AD\Desktop\DoAn.net\test_code\test_code\obj\Debug\net6.0\test_code.pdb
+C:\Users\AD\Desktop\DoAn.net\test_code\test_code\obj\Debug\net6.0\test_code.genruntimeconfig.cache
+C:\Users\AD\Desktop\DoAn.net\test_code\test_code\obj\Debug\net6.0\ref\test_code.dll
